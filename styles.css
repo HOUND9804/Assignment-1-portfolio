@@ -56,3 +56,14 @@
 .card p{
     margin: 20px 0px;
 }
+.support{
+    background-image: url("asset/handshake.jpg");
+    background-size: cover;
+    background-position: center;
+    margin:20px 150px;
+    border-radius: 40px;
+    padding: 150px;
+    color: aliceblue;
+    text-align: center;
+    align-items: center;
+}
