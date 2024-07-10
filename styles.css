@@ -43,7 +43,16 @@
 .motive{
     display: flex;
     justify-content: space-between;
-    margin:20px 150px;
+    margin:20px 250px;
+    border-radius: 50px;
     background-color: rgb(176, 180, 183);
     padding: 50px;
+}
+.card{
+    padding:20px ;
+    background-color: aqua;
+    border-radius: 30px;
+}
+.card p{
+    margin: 20px 0px;
 }
