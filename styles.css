@@ -43,5 +43,7 @@
 .motive{
     display: flex;
     justify-content: space-between;
-    margin:0px 2000px 10px;
+    margin:20px 150px;
+    background-color: rgb(176, 180, 183);
+    padding: 50px;
 }
